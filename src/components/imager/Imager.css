@@ -1,0 +1,29 @@
+.random-button-div {
+    display: flex;
+    align-items: center;
+}
+
+.random-button {
+    margin-left: 9rem;
+    height: 2rem;
+    width: 5rem
+}
+
+.fwd-back-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.back {
+    margin-right: 2rem;
+    height: 2rem;
+    width: 5rem
+}
+
+.forward {
+    margin-right: 9rem;
+    height: 2rem;
+    width: 5rem
+}
